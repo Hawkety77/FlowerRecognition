@@ -1,6 +1,5 @@
 # Flower Recognition
-
-This repository contains code that uses Convolutional Neural Networks and transfer learning to classify flowers into 5 classes. The current model achieves a 93% accuracy on the test set.
+This repository contains code that uses a convolutional neural network and transfer learning to classify flowers into 5 classes. The current model achieves a 93% accuracy on the test set. The architecture is based on the DenseNet201 model and it's pre-trained weights on the imagenet dataset.
 
 ## Files
 - CNN.py: Main script that trains the CNN and predicts on the test images.
